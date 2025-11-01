@@ -1,7 +1,7 @@
 # Number Guessing Game (Python)
 Simple number guessing game where the player tries to guess a randomly generated number between 1 and 100
 
-## Features 
+## Task 
 - Random number generation between 1 and 100
 - Player input for guesses
 - Fedback for "Too high" or "Too low" guesses
